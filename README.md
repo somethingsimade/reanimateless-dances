@@ -1,2 +1,2 @@
-# reanimateless-dances
-Reanimateless dances (proof of concept)
+# reanimateless dances
+Proof of concept of a reanimateless dance script
